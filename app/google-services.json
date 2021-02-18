@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "718311922798",
+    "project_id": "atom-app-b65d6",
+    "storage_bucket": "atom-app-b65d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718311922798:android:3c920010bdc55466d81a7f",
+        "android_client_info": {
+          "package_name": "com.example.atomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718311922798-re98lsarn6hh2jh9ohmrskrb8q5lh5q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw2nxRxa5zCqmAALFnNv9kdjzRbvaQbs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718311922798-re98lsarn6hh2jh9ohmrskrb8q5lh5q8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
