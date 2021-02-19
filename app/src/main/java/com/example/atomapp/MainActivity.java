@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         if(user!=null){
             Intent intent = new Intent(getApplicationContext(), HomeActivity.class);
             startActivity(intent);
+            finish();
         }
 
     }
@@ -111,6 +112,7 @@ public class MainActivity extends AppCompatActivity {
                             FirebaseUser user = mAuth.getCurrentUser();
                             Intent intent = new Intent(getApplicationContext(), HomeActivity.class);
                             startActivity(intent);
+                            finish();
                         } else {
                             Toast.makeText(MainActivity.this, "Authentication Failed", Toast.LENGTH_SHORT).show();
 
